@@ -1,0 +1,1087 @@
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket.deps.json
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket.runtimeconfig.json
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket.pdb
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Azure.Core.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Azure.Identity.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Humanizer.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.CodeDom.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.csproj.AssemblyReference.cache
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.AssemblyInfoInputs.cache
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.AssemblyInfo.cs
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.csproj.CoreCompileInputs.cache
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/obj/Debug/net8.0/Mushroom.D14E8FBC.Up2Date
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/obj/Debug/net8.0/refint/MushroomPocket.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.pdb
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.genruntimeconfig.cache
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/obj/Debug/net8.0/ref/MushroomPocket.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/seuno/Library/Mobile Documents/com~apple~CloudDocs/School/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket.deps.json
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket.runtimeconfig.json
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket.pdb
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Azure.Core.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Azure.Identity.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Humanizer.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.CodeDom.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.Convention.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Drawing.Common.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Memory.Data.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Security.Permissions.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.csproj.AssemblyReference.cache
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.AssemblyInfoInputs.cache
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.AssemblyInfo.cs
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.csproj.CoreCompileInputs.cache
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/obj/Debug/net8.0/Mushroom.D14E8FBC.Up2Date
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/obj/Debug/net8.0/refint/MushroomPocket.dll
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.pdb
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.genruntimeconfig.cache
+/Volumes/Untitled 2/2024/AVP/MushroomPocket/obj/Debug/net8.0/ref/MushroomPocket.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket.deps.json
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket.runtimeconfig.json
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket.pdb
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Azure.Core.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Azure.Identity.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Humanizer.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.CodeDom.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.Convention.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Drawing.Common.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Memory.Data.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Security.Permissions.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/hi/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Volumes/hi/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.csproj.AssemblyReference.cache
+/Volumes/hi/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/hi/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.AssemblyInfoInputs.cache
+/Volumes/hi/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.AssemblyInfo.cs
+/Volumes/hi/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.csproj.CoreCompileInputs.cache
+/Volumes/hi/2024/AVP/MushroomPocket/obj/Debug/net8.0/Mushroom.D14E8FBC.Up2Date
+/Volumes/hi/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.dll
+/Volumes/hi/2024/AVP/MushroomPocket/obj/Debug/net8.0/refint/MushroomPocket.dll
+/Volumes/hi/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.pdb
+/Volumes/hi/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.genruntimeconfig.cache
+/Volumes/hi/2024/AVP/MushroomPocket/obj/Debug/net8.0/ref/MushroomPocket.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket.deps.json
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket.runtimeconfig.json
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/MushroomPocket.pdb
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Azure.Core.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Azure.Identity.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Humanizer.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.CodeDom.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.csproj.AssemblyReference.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.AssemblyInfoInputs.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.AssemblyInfo.cs
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.csproj.CoreCompileInputs.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/obj/Debug/net8.0/Mushroom.D14E8FBC.Up2Date
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/obj/Debug/net8.0/refint/MushroomPocket.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.pdb
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/obj/Debug/net8.0/MushroomPocket.genruntimeconfig.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket/obj/Debug/net8.0/ref/MushroomPocket.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/MushroomPocket
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/MushroomPocket.deps.json
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/MushroomPocket.runtimeconfig.json
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/MushroomPocket.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/MushroomPocket.pdb
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Azure.Core.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Azure.Identity.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Humanizer.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/System.CodeDom.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/obj/Debug/net8.0/MushroomPocket.csproj.AssemblyReference.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/obj/Debug/net8.0/MushroomPocket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/obj/Debug/net8.0/MushroomPocket.AssemblyInfoInputs.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/obj/Debug/net8.0/MushroomPocket.AssemblyInfo.cs
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/obj/Debug/net8.0/MushroomPocket.csproj.CoreCompileInputs.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/obj/Debug/net8.0/Mushroom.D14E8FBC.Up2Date
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/obj/Debug/net8.0/MushroomPocket.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/obj/Debug/net8.0/refint/MushroomPocket.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/obj/Debug/net8.0/MushroomPocket.pdb
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/obj/Debug/net8.0/MushroomPocket.genruntimeconfig.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-latest-PVE/obj/Debug/net8.0/ref/MushroomPocket.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/MushroomPocket
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/MushroomPocket.deps.json
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/MushroomPocket.runtimeconfig.json
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/MushroomPocket.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/MushroomPocket.pdb
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Azure.Core.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Azure.Identity.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Humanizer.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/System.CodeDom.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/obj/Debug/net8.0/MushroomPocket.csproj.AssemblyReference.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/obj/Debug/net8.0/MushroomPocket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/obj/Debug/net8.0/MushroomPocket.AssemblyInfoInputs.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/obj/Debug/net8.0/MushroomPocket.AssemblyInfo.cs
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/obj/Debug/net8.0/MushroomPocket.csproj.CoreCompileInputs.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/obj/Debug/net8.0/Mushroom.D14E8FBC.Up2Date
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/obj/Debug/net8.0/MushroomPocket.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/obj/Debug/net8.0/refint/MushroomPocket.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/obj/Debug/net8.0/MushroomPocket.pdb
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/obj/Debug/net8.0/MushroomPocket.genruntimeconfig.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/Client/obj/Debug/net8.0/ref/MushroomPocket.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/MushroomPocket
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/MushroomPocket.deps.json
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/MushroomPocket.runtimeconfig.json
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/MushroomPocket.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/MushroomPocket.pdb
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Azure.Core.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Azure.Identity.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Humanizer.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/System.CodeDom.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/MushroomPocket.csproj.AssemblyReference.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/MushroomPocket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/MushroomPocket.AssemblyInfoInputs.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/MushroomPocket.AssemblyInfo.cs
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/MushroomPocket.csproj.CoreCompileInputs.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/Mushroom.D14E8FBC.Up2Date
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/MushroomPocket.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/refint/MushroomPocket.dll
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/MushroomPocket.pdb
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/MushroomPocket.genruntimeconfig.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/ref/MushroomPocket.dll
