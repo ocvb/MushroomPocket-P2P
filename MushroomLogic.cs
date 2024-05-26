@@ -29,7 +29,8 @@ public class MushroomFunc
             PrintColor("(Wario) or ", ConsoleColor.Yellow, false);
             PrintColor("(Waluigi)", ConsoleColor.Yellow, true);
 
-            PrintColor("Enter Character's Name (Enter 'B' to back): ", newLine: false);
+            PrintColor("(B) to back");
+            PrintColor("Enter Character's Name : ", newLine: false);
             string name = Convert.ToString(Console.ReadLine());
 
             if (name == "B" || name == "b")
@@ -82,7 +83,6 @@ public class MushroomFunc
 
         using (var context = new MushroomDbContext())
         {
-
             var currentUser = context.Users.Where(x => x.Username == user.Username).FirstOrDefault();
             heroes = context.MushroomHeroes.Where(x => x.UserId == currentUser.Id).ToList();
 
@@ -126,7 +126,6 @@ public class MushroomFunc
 
             foreach (MushroomHeroes hero in dbHeroes)
             {
-
                 if (!EvolveCharactersSkills.ContainsKey(hero.Name))
                 {
                     EvolvedMushroom mushroomMaster = mushroomMasters.Find(x => x.Name == hero.Name) ?? throw new Exception("Character does not exist in the preset list!");
@@ -218,8 +217,8 @@ public class MushroomFunc
             {
                 throw new Exception("No character(s) can be transformed!");
             }
-
-            Console.Write("Enter Character's ID (Enter 'B' to back): ");
+            PrintColor("(B) to back");
+            Console.Write("Enter Character's ID: ");
 
             var retrieveInput = Console.ReadLine();
             if (retrieveInput == "b" || retrieveInput == "B")
@@ -287,7 +286,6 @@ public class MushroomFunc
 
             }
 
-            ContinueWhenPressed();
         }
     }
 
@@ -316,7 +314,8 @@ public class MushroomFunc
                 }
                 PrintColor(string.Concat(Enumerable.Repeat("-", 30)));
 
-                PrintColor("Enter Character's ID (Enter 'B' to back): ", newLine: false);
+                PrintColor("(B) to back");
+                PrintColor("Enter Character's ID: ", newLine: false);
                 var CharaID = Console.ReadLine();
 
                 if (CharaID == "B" || CharaID == "b")
@@ -378,8 +377,8 @@ public class MushroomFunc
                 }
                 PrintColor(string.Concat(Enumerable.Repeat("-", 30)));
 
-
-                PrintColor("Choose your character ID to attack (Enter 'B' to back): ", newLine: false);
+                PrintColor("(B) to back");
+                PrintColor("Choose your character ID to attack: ", newLine: false);
                 var retrieveInput = Console.ReadLine();
 
                 if (retrieveInput == "B" || retrieveInput == "b")
@@ -414,8 +413,8 @@ public class MushroomFunc
                 }
                 PrintColor(string.Concat(Enumerable.Repeat("-", 30)));
 
-
-                PrintColor("Choose an Enemy ID to attack (Enter 'b' to back): ", newLine: false);
+                PrintColor("(B) to back");
+                PrintColor("Choose an Enemy ID to attack: ", newLine: false);
                 var targetName = Console.ReadLine();
 
                 if (targetName == "B" || targetName == "b")

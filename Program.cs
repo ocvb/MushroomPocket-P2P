@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 using Microsoft.EntityFrameworkCore;
 
 
@@ -17,6 +18,8 @@ namespace MushroomPocket
     {
         static void Main(string[] args)
         {
+            printOwner.PrintOwner();
+            Thread.Sleep(800);
             Console.ForegroundColor = ConsoleColor.White;
             //MushroomMaster criteria list for checking character transformation availability.   
             /*************************************************************************
@@ -36,11 +39,10 @@ namespace MushroomPocket
             Dictionary<string, Dictionary<string, string>> EvolveCharactersSkills = new Dictionary<string, Dictionary<string, string>>();
             foreach (var mushroomMaster in mushroomMasters)
             {
-
                 EvolveCharactersSkills.Add(mushroomMaster.TransformTo, new Dictionary<string, string> { { "NoToTransfrom", mushroomMaster.NoToTransform.ToString() }, { "Skill", mushroomMaster.Skill }, { "Damage", mushroomMaster.Damage.ToString() } });
             };
 
-            
+
 
             // Start the program
             using var context = new MushroomDbContext();
@@ -66,8 +68,9 @@ namespace MushroomPocket
 
                 PrintColor("(1) Login");
                 PrintColor("(2) Register");
+                PrintColor("(Q) Quit");
 
-                PrintColor("Please only enter (1, 2) or (Enter Q to exit): ", newLine: false);
+                PrintColor("Please only enter (1, 2): ", newLine: false);
 
                 var key = Console.ReadKey(false);
                 string choice = key.KeyChar.ToString();
@@ -93,6 +96,10 @@ namespace MushroomPocket
                 }
             }
 
+            Dictionary<string, string> eee = new Dictionary<string, string>() { { "warrior", "mage" } };
+
+            eee.TryGetValue("warrior", out string value);
+
 
             while (true)
             {
@@ -109,10 +116,12 @@ namespace MushroomPocket
                 PrintColor("(4) Transform Character(s)");
                 PrintColor("(5) Remove Character(s) from my pocket");
                 PrintColor("(6) Attack Enemy Character (Offline PvE)");
-                PrintColor("(m) Mutliplayer Mode (P2P)", ConsoleColor.DarkYellow);
+                PrintColor("(m) Mutliplayer Mode (P2P Battle)", ConsoleColor.DarkYellow);
                 PrintColor("(0) Reset Database (Caution: This will delete all data)", ConsoleColor.Red);
+                PrintColor("(Q) Quit");
 
-                PrintColor("Please only enter (1,2,3,4,5,6]) or Q to quit: ", newLine: false);
+
+                PrintColor("Please only enter (1,2,3,4,5,6]): ", newLine: false);
 
                 try
                 {

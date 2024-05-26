@@ -1079,6 +1079,7 @@
 /Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/MushroomPocket.AssemblyInfoInputs.cache
 /Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/MushroomPocket.AssemblyInfo.cs
 /Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/MushroomPocket.csproj.CoreCompileInputs.cache
+/Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/MushroomPocket.sourcelink.json
 /Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/Mushroom.D14E8FBC.Up2Date
 /Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/MushroomPocket.dll
 /Users/seuno/Desktop/2024/AVP/MushroomPocket-P2P/obj/Debug/net8.0/refint/MushroomPocket.dll

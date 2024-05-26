@@ -27,7 +27,7 @@ namespace MushroomPocket
 
             try
             {
-                PrintColor("Multiplayer Mode");
+                PrintColor("Multiplayer 'P2P' Mode");
 
                 PrintColor("(1) Connect to a peer");
                 PrintColor("(2) Create a peer server");
@@ -36,6 +36,7 @@ namespace MushroomPocket
 
                 var key = Console.ReadKey(false);
                 string choice = key.KeyChar.ToString();
+                Console.WriteLine();
 
                 if (choice != "1" && choice != "2")
                 {

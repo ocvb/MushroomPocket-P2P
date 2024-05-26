@@ -68,4 +68,13 @@ namespace MushroomPocket
             }
         }
     }
+
+    public class printOwner()
+    {
+        public static void PrintOwner()
+        {
+            MainExtra.PrintColor("Name: Kai Jie", ConsoleColor.Blue);
+            MainExtra.PrintColor("Admin No: 234412H", ConsoleColor.DarkBlue);
+        }
+    }
 }
