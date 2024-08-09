@@ -1,2 +1,2 @@
 ## Note
-1. Unfinished code, yet it works :)
+Unfinished code, yet it works :)
